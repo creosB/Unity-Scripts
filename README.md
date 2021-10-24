@@ -17,7 +17,7 @@
 </ul>
 <hr>
 <h1 class="code-line" data-line-start=20 data-line-end=21 ><a id="Grseller__Pictures_20"></a>Görseller / Pictures</h1>
-<p class="has-line-data" data-line-start="21" data-line-end="22"><img src="https://raw.githubusercontent.com/creosB/Unity-Scripts/main/resim1.png?token=ADMMRQT55GXLV7FVICU5653BE2UTI" alt="c++" title="Unity Script"></p>
+<p class="has-line-data" data-line-start="21" data-line-end="22"><img src="https://raw.githubusercontent.com/creosB/Unity-Scripts/main/resim1.png?token=ADMMRQWQMK3LUJZ42OCKIO3BP3JOG alt="unity" title="Unity Script"></p>
 <hr>
 <h1 class="code-line" data-line-start=23 data-line-end=24 ><a id="Bilmeniz_gerekenler__What_you_need_to_know_23"></a>Bilmeniz gerekenler / What you need to know</h1>
 <ul>
