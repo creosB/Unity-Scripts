@@ -1,3 +1,11 @@
+/*
+    1) Add push script to your character
+    2) Open your character animator and follow this steps:
+        a) Add push animation with two arrow (for post animation comeback)
+        b) add pushing boolean in parameters section
+    3) Which you want to push object, you need to add pushable tag.
+    Note: You can change tag name or animation param name in script.
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
