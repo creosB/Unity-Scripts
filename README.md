@@ -5,6 +5,7 @@
 <a href="https://www.buymeacoffee.com/creos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <h1 class="code-line" data-line-start=5 data-line-end=6 ><a id="zelikleri__Properties_5"></a>Özelikleri / Properties</h1>
 <ul>
+Usage video: https://www.youtube.com/watch?v=5AhbJ_CHnFc&list=PL1ClFkQHmgxcWXZOXGRoJAJXYDg1bX8xN
 <li class="has-line-data" data-line-start="7" data-line-end="9">TPS ve Top down camera olarak kullanılabilecek kamera scripti.<br>
 (Camera script that can be used as TPS and Top-down camera)</li>
 <li class="has-line-data" data-line-start="9" data-line-end="11">Karakter duvarın arkasına geçtiği zaman, duvarı transparan yaparak karakteri görmenizi sağlacak script.<br>
